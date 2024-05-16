@@ -1,0 +1,2082 @@
+[
+    {
+        "neighborhood": "Virginia Park",
+        "total_response_time": NaN,
+        "total_dispatch_time": NaN,
+        "total_time_on_scene": NaN,
+        "count": 25,
+        "average_response_time": NaN,
+        "average_dispatch_time": NaN,
+        "average_time_on_scene": NaN
+    },
+    {
+        "neighborhood": "Tech Town",
+        "total_response_time": NaN,
+        "total_dispatch_time": NaN,
+        "total_time_on_scene": NaN,
+        "count": 210,
+        "average_response_time": NaN,
+        "average_dispatch_time": NaN,
+        "average_time_on_scene": NaN
+    },
+    {
+        "neighborhood": "O'Hair Park",
+        "total_response_time": NaN,
+        "total_dispatch_time": NaN,
+        "total_time_on_scene": NaN,
+        "count": 325,
+        "average_response_time": NaN,
+        "average_dispatch_time": NaN,
+        "average_time_on_scene": NaN
+    },
+    {
+        "neighborhood": "Farwell",
+        "total_response_time": NaN,
+        "total_dispatch_time": NaN,
+        "total_time_on_scene": NaN,
+        "count": 643,
+        "average_response_time": NaN,
+        "average_dispatch_time": NaN,
+        "average_time_on_scene": NaN
+    },
+    {
+        "neighborhood": "We Care Community",
+        "total_response_time": NaN,
+        "total_dispatch_time": NaN,
+        "total_time_on_scene": NaN,
+        "count": 249,
+        "average_response_time": NaN,
+        "average_dispatch_time": NaN,
+        "average_time_on_scene": NaN
+    },
+    {
+        "neighborhood": "Fox Creek",
+        "total_response_time": NaN,
+        "total_dispatch_time": NaN,
+        "total_time_on_scene": NaN,
+        "count": 356,
+        "average_response_time": NaN,
+        "average_dispatch_time": NaN,
+        "average_time_on_scene": NaN
+    },
+    {
+        "neighborhood": "Old Redford",
+        "total_response_time": NaN,
+        "total_dispatch_time": NaN,
+        "total_time_on_scene": NaN,
+        "count": 74,
+        "average_response_time": NaN,
+        "average_dispatch_time": NaN,
+        "average_time_on_scene": NaN
+    },
+    {
+        "neighborhood": "Belmont",
+        "total_response_time": NaN,
+        "total_dispatch_time": NaN,
+        "total_time_on_scene": NaN,
+        "count": 201,
+        "average_response_time": NaN,
+        "average_dispatch_time": NaN,
+        "average_time_on_scene": NaN
+    },
+    {
+        "neighborhood": "East Village",
+        "total_response_time": NaN,
+        "total_dispatch_time": NaN,
+        "total_time_on_scene": NaN,
+        "count": 463,
+        "average_response_time": NaN,
+        "average_dispatch_time": NaN,
+        "average_time_on_scene": NaN
+    },
+    {
+        "neighborhood": "University District",
+        "total_response_time": NaN,
+        "total_dispatch_time": NaN,
+        "total_time_on_scene": NaN,
+        "count": 252,
+        "average_response_time": NaN,
+        "average_dispatch_time": NaN,
+        "average_time_on_scene": NaN
+    },
+    {
+        "neighborhood": "Riverbend",
+        "total_response_time": NaN,
+        "total_dispatch_time": NaN,
+        "total_time_on_scene": NaN,
+        "count": 804,
+        "average_response_time": NaN,
+        "average_dispatch_time": NaN,
+        "average_time_on_scene": NaN
+    },
+    {
+        "neighborhood": "Midwest",
+        "total_response_time": NaN,
+        "total_dispatch_time": NaN,
+        "total_time_on_scene": NaN,
+        "count": 689,
+        "average_response_time": NaN,
+        "average_dispatch_time": NaN,
+        "average_time_on_scene": NaN
+    },
+    {
+        "neighborhood": "Fiskhorn",
+        "total_response_time": NaN,
+        "total_dispatch_time": NaN,
+        "total_time_on_scene": NaN,
+        "count": 120,
+        "average_response_time": NaN,
+        "average_dispatch_time": NaN,
+        "average_time_on_scene": NaN
+    },
+    {
+        "neighborhood": "Rouge Park",
+        "total_response_time": NaN,
+        "total_dispatch_time": NaN,
+        "total_time_on_scene": NaN,
+        "count": 85,
+        "average_response_time": NaN,
+        "average_dispatch_time": NaN,
+        "average_time_on_scene": NaN
+    },
+    {
+        "neighborhood": "Michigan-Martin",
+        "total_response_time": NaN,
+        "total_dispatch_time": NaN,
+        "total_time_on_scene": NaN,
+        "count": 54,
+        "average_response_time": NaN,
+        "average_dispatch_time": NaN,
+        "average_time_on_scene": NaN
+    },
+    {
+        "neighborhood": "Greenfield",
+        "total_response_time": NaN,
+        "total_dispatch_time": NaN,
+        "total_time_on_scene": NaN,
+        "count": 626,
+        "average_response_time": NaN,
+        "average_dispatch_time": NaN,
+        "average_time_on_scene": NaN
+    },
+    {
+        "neighborhood": "Wayne State",
+        "total_response_time": NaN,
+        "total_dispatch_time": NaN,
+        "total_time_on_scene": NaN,
+        "count": 1370,
+        "average_response_time": NaN,
+        "average_dispatch_time": NaN,
+        "average_time_on_scene": NaN
+    },
+    {
+        "neighborhood": "Grandmont #1",
+        "total_response_time": NaN,
+        "total_dispatch_time": NaN,
+        "total_time_on_scene": NaN,
+        "count": 73,
+        "average_response_time": NaN,
+        "average_dispatch_time": NaN,
+        "average_time_on_scene": NaN
+    },
+    {
+        "neighborhood": "Detroit Golf",
+        "total_response_time": NaN,
+        "total_dispatch_time": NaN,
+        "total_time_on_scene": NaN,
+        "count": 32,
+        "average_response_time": NaN,
+        "average_dispatch_time": NaN,
+        "average_time_on_scene": NaN
+    },
+    {
+        "neighborhood": "Claytown",
+        "total_response_time": NaN,
+        "total_dispatch_time": NaN,
+        "total_time_on_scene": NaN,
+        "count": 833,
+        "average_response_time": NaN,
+        "average_dispatch_time": NaN,
+        "average_time_on_scene": NaN
+    },
+    {
+        "neighborhood": "Gratiot Woods",
+        "total_response_time": NaN,
+        "total_dispatch_time": NaN,
+        "total_time_on_scene": NaN,
+        "count": 136,
+        "average_response_time": NaN,
+        "average_dispatch_time": NaN,
+        "average_time_on_scene": NaN
+    },
+    {
+        "neighborhood": "East Canfield",
+        "total_response_time": NaN,
+        "total_dispatch_time": 112.89999999999999,
+        "total_time_on_scene": NaN,
+        "count": 22,
+        "average_response_time": NaN,
+        "average_dispatch_time": 5.131818181818182,
+        "average_time_on_scene": NaN
+    },
+    {
+        "neighborhood": "Sherwood",
+        "total_response_time": NaN,
+        "total_dispatch_time": NaN,
+        "total_time_on_scene": NaN,
+        "count": 122,
+        "average_response_time": NaN,
+        "average_dispatch_time": NaN,
+        "average_time_on_scene": NaN
+    },
+    {
+        "neighborhood": "Southfield Plymouth",
+        "total_response_time": NaN,
+        "total_dispatch_time": NaN,
+        "total_time_on_scene": NaN,
+        "count": 120,
+        "average_response_time": NaN,
+        "average_dispatch_time": NaN,
+        "average_time_on_scene": NaN
+    },
+    {
+        "neighborhood": "Brewster Homes",
+        "total_response_time": NaN,
+        "total_dispatch_time": NaN,
+        "total_time_on_scene": NaN,
+        "count": 63,
+        "average_response_time": NaN,
+        "average_dispatch_time": NaN,
+        "average_time_on_scene": NaN
+    },
+    {
+        "neighborhood": "Franklin Park",
+        "total_response_time": NaN,
+        "total_dispatch_time": NaN,
+        "total_time_on_scene": NaN,
+        "count": 2128,
+        "average_response_time": NaN,
+        "average_dispatch_time": NaN,
+        "average_time_on_scene": NaN
+    },
+    {
+        "neighborhood": "Eden Gardens",
+        "total_response_time": NaN,
+        "total_dispatch_time": NaN,
+        "total_time_on_scene": NaN,
+        "count": 234,
+        "average_response_time": NaN,
+        "average_dispatch_time": NaN,
+        "average_time_on_scene": NaN
+    },
+    {
+        "neighborhood": "Rivertown",
+        "total_response_time": NaN,
+        "total_dispatch_time": NaN,
+        "total_time_on_scene": NaN,
+        "count": 652,
+        "average_response_time": NaN,
+        "average_dispatch_time": NaN,
+        "average_time_on_scene": NaN
+    },
+    {
+        "neighborhood": "Russell Industrial",
+        "total_response_time": NaN,
+        "total_dispatch_time": NaN,
+        "total_time_on_scene": NaN,
+        "count": 16,
+        "average_response_time": NaN,
+        "average_dispatch_time": NaN,
+        "average_time_on_scene": NaN
+    },
+    {
+        "neighborhood": "Islandview",
+        "total_response_time": NaN,
+        "total_dispatch_time": NaN,
+        "total_time_on_scene": NaN,
+        "count": 467,
+        "average_response_time": NaN,
+        "average_dispatch_time": NaN,
+        "average_time_on_scene": NaN
+    },
+    {
+        "neighborhood": "Green Acres",
+        "total_response_time": NaN,
+        "total_dispatch_time": NaN,
+        "total_time_on_scene": NaN,
+        "count": 87,
+        "average_response_time": NaN,
+        "average_dispatch_time": NaN,
+        "average_time_on_scene": NaN
+    },
+    {
+        "neighborhood": "West Virginia Park",
+        "total_response_time": 0.0,
+        "total_dispatch_time": 0.0,
+        "total_time_on_scene": 17.400000000000002,
+        "count": 4,
+        "average_response_time": 0.0,
+        "average_dispatch_time": 0.0,
+        "average_time_on_scene": 4.3500000000000005
+    },
+    {
+        "neighborhood": "Northwest Community",
+        "total_response_time": NaN,
+        "total_dispatch_time": NaN,
+        "total_time_on_scene": NaN,
+        "count": 126,
+        "average_response_time": NaN,
+        "average_dispatch_time": NaN,
+        "average_time_on_scene": NaN
+    },
+    {
+        "neighborhood": "Carbon Works",
+        "total_response_time": 167.29999999999998,
+        "total_dispatch_time": 37.9,
+        "total_time_on_scene": 879.6999999999999,
+        "count": 31,
+        "average_response_time": 5.396774193548387,
+        "average_dispatch_time": 1.2225806451612902,
+        "average_time_on_scene": 28.377419354838707
+    },
+    {
+        "neighborhood": "Hubbard Richard",
+        "total_response_time": NaN,
+        "total_dispatch_time": NaN,
+        "total_time_on_scene": NaN,
+        "count": 59,
+        "average_response_time": NaN,
+        "average_dispatch_time": NaN,
+        "average_time_on_scene": NaN
+    },
+    {
+        "neighborhood": "College Park",
+        "total_response_time": NaN,
+        "total_dispatch_time": NaN,
+        "total_time_on_scene": NaN,
+        "count": 576,
+        "average_response_time": NaN,
+        "average_dispatch_time": NaN,
+        "average_time_on_scene": NaN
+    },
+    {
+        "neighborhood": "Waterworks Park",
+        "total_response_time": 121.2,
+        "total_dispatch_time": 78.89999999999999,
+        "total_time_on_scene": 192.1,
+        "count": 6,
+        "average_response_time": 20.2,
+        "average_dispatch_time": 13.149999999999999,
+        "average_time_on_scene": 32.016666666666666
+    },
+    {
+        "neighborhood": "LaSalle Gardens",
+        "total_response_time": NaN,
+        "total_dispatch_time": NaN,
+        "total_time_on_scene": NaN,
+        "count": 82,
+        "average_response_time": NaN,
+        "average_dispatch_time": NaN,
+        "average_time_on_scene": NaN
+    },
+    {
+        "neighborhood": "Hubbell-Puritan",
+        "total_response_time": NaN,
+        "total_dispatch_time": NaN,
+        "total_time_on_scene": NaN,
+        "count": 241,
+        "average_response_time": NaN,
+        "average_dispatch_time": NaN,
+        "average_time_on_scene": NaN
+    },
+    {
+        "neighborhood": "Chandler Park",
+        "total_response_time": NaN,
+        "total_dispatch_time": NaN,
+        "total_time_on_scene": NaN,
+        "count": 187,
+        "average_response_time": NaN,
+        "average_dispatch_time": NaN,
+        "average_time_on_scene": NaN
+    },
+    {
+        "neighborhood": "Boynton",
+        "total_response_time": NaN,
+        "total_dispatch_time": NaN,
+        "total_time_on_scene": NaN,
+        "count": 436,
+        "average_response_time": NaN,
+        "average_dispatch_time": NaN,
+        "average_time_on_scene": NaN
+    },
+    {
+        "neighborhood": "Downtown",
+        "total_response_time": NaN,
+        "total_dispatch_time": NaN,
+        "total_time_on_scene": NaN,
+        "count": 4295,
+        "average_response_time": NaN,
+        "average_dispatch_time": NaN,
+        "average_time_on_scene": NaN
+    },
+    {
+        "neighborhood": "Riverdale",
+        "total_response_time": NaN,
+        "total_dispatch_time": NaN,
+        "total_time_on_scene": NaN,
+        "count": 138,
+        "average_response_time": NaN,
+        "average_dispatch_time": NaN,
+        "average_time_on_scene": NaN
+    },
+    {
+        "neighborhood": "Butler",
+        "total_response_time": NaN,
+        "total_dispatch_time": NaN,
+        "total_time_on_scene": NaN,
+        "count": 209,
+        "average_response_time": NaN,
+        "average_dispatch_time": NaN,
+        "average_time_on_scene": NaN
+    },
+    {
+        "neighborhood": "Historic Atkinson",
+        "total_response_time": NaN,
+        "total_dispatch_time": NaN,
+        "total_time_on_scene": NaN,
+        "count": 18,
+        "average_response_time": NaN,
+        "average_dispatch_time": NaN,
+        "average_time_on_scene": NaN
+    },
+    {
+        "neighborhood": "Bagley",
+        "total_response_time": NaN,
+        "total_dispatch_time": NaN,
+        "total_time_on_scene": NaN,
+        "count": 704,
+        "average_response_time": NaN,
+        "average_dispatch_time": NaN,
+        "average_time_on_scene": NaN
+    },
+    {
+        "neighborhood": "Miller Grove",
+        "total_response_time": NaN,
+        "total_dispatch_time": NaN,
+        "total_time_on_scene": NaN,
+        "count": 218,
+        "average_response_time": NaN,
+        "average_dispatch_time": NaN,
+        "average_time_on_scene": NaN
+    },
+    {
+        "neighborhood": "Northeast Central District",
+        "total_response_time": NaN,
+        "total_dispatch_time": NaN,
+        "total_time_on_scene": NaN,
+        "count": 247,
+        "average_response_time": NaN,
+        "average_dispatch_time": NaN,
+        "average_time_on_scene": NaN
+    },
+    {
+        "neighborhood": "Sherwood Forest",
+        "total_response_time": NaN,
+        "total_dispatch_time": 118.1,
+        "total_time_on_scene": NaN,
+        "count": 93,
+        "average_response_time": NaN,
+        "average_dispatch_time": 1.2698924731182795,
+        "average_time_on_scene": NaN
+    },
+    {
+        "neighborhood": "Winship",
+        "total_response_time": NaN,
+        "total_dispatch_time": NaN,
+        "total_time_on_scene": NaN,
+        "count": 520,
+        "average_response_time": NaN,
+        "average_dispatch_time": NaN,
+        "average_time_on_scene": NaN
+    },
+    {
+        "neighborhood": "New Center Commons",
+        "total_response_time": NaN,
+        "total_dispatch_time": NaN,
+        "total_time_on_scene": NaN,
+        "count": 148,
+        "average_response_time": NaN,
+        "average_dispatch_time": NaN,
+        "average_time_on_scene": NaN
+    },
+    {
+        "neighborhood": "Nolan",
+        "total_response_time": NaN,
+        "total_dispatch_time": NaN,
+        "total_time_on_scene": NaN,
+        "count": 1524,
+        "average_response_time": NaN,
+        "average_dispatch_time": NaN,
+        "average_time_on_scene": NaN
+    },
+    {
+        "neighborhood": "Mohican Regent",
+        "total_response_time": NaN,
+        "total_dispatch_time": NaN,
+        "total_time_on_scene": NaN,
+        "count": 364,
+        "average_response_time": NaN,
+        "average_dispatch_time": NaN,
+        "average_time_on_scene": NaN
+    },
+    {
+        "neighborhood": "Yorkshire Woods",
+        "total_response_time": NaN,
+        "total_dispatch_time": NaN,
+        "total_time_on_scene": NaN,
+        "count": 394,
+        "average_response_time": NaN,
+        "average_dispatch_time": NaN,
+        "average_time_on_scene": NaN
+    },
+    {
+        "neighborhood": "Conner Creek",
+        "total_response_time": NaN,
+        "total_dispatch_time": NaN,
+        "total_time_on_scene": NaN,
+        "count": 487,
+        "average_response_time": NaN,
+        "average_dispatch_time": NaN,
+        "average_time_on_scene": NaN
+    },
+    {
+        "neighborhood": "Elmwood Park",
+        "total_response_time": NaN,
+        "total_dispatch_time": NaN,
+        "total_time_on_scene": NaN,
+        "count": 391,
+        "average_response_time": NaN,
+        "average_dispatch_time": NaN,
+        "average_time_on_scene": NaN
+    },
+    {
+        "neighborhood": "Berg-Lahser",
+        "total_response_time": NaN,
+        "total_dispatch_time": NaN,
+        "total_time_on_scene": NaN,
+        "count": 164,
+        "average_response_time": NaN,
+        "average_dispatch_time": NaN,
+        "average_time_on_scene": NaN
+    },
+    {
+        "neighborhood": "Cadillac Community",
+        "total_response_time": NaN,
+        "total_dispatch_time": NaN,
+        "total_time_on_scene": NaN,
+        "count": 167,
+        "average_response_time": NaN,
+        "average_dispatch_time": NaN,
+        "average_time_on_scene": NaN
+    },
+    {
+        "neighborhood": "Gratiot Town/Ketterring",
+        "total_response_time": NaN,
+        "total_dispatch_time": NaN,
+        "total_time_on_scene": NaN,
+        "count": 287,
+        "average_response_time": NaN,
+        "average_dispatch_time": NaN,
+        "average_time_on_scene": NaN
+    },
+    {
+        "neighborhood": "Blackstone Park",
+        "total_response_time": NaN,
+        "total_dispatch_time": NaN,
+        "total_time_on_scene": NaN,
+        "count": 80,
+        "average_response_time": NaN,
+        "average_dispatch_time": NaN,
+        "average_time_on_scene": NaN
+    },
+    {
+        "neighborhood": "Warrendale",
+        "total_response_time": NaN,
+        "total_dispatch_time": NaN,
+        "total_time_on_scene": NaN,
+        "count": 1411,
+        "average_response_time": NaN,
+        "average_dispatch_time": NaN,
+        "average_time_on_scene": NaN
+    },
+    {
+        "neighborhood": "McDougall-Hunt",
+        "total_response_time": NaN,
+        "total_dispatch_time": NaN,
+        "total_time_on_scene": NaN,
+        "count": 528,
+        "average_response_time": NaN,
+        "average_dispatch_time": NaN,
+        "average_time_on_scene": NaN
+    },
+    {
+        "neighborhood": "Brush Park",
+        "total_response_time": NaN,
+        "total_dispatch_time": NaN,
+        "total_time_on_scene": NaN,
+        "count": 443,
+        "average_response_time": NaN,
+        "average_dispatch_time": NaN,
+        "average_time_on_scene": NaN
+    },
+    {
+        "neighborhood": "Lafayette Park",
+        "total_response_time": NaN,
+        "total_dispatch_time": NaN,
+        "total_time_on_scene": NaN,
+        "count": 297,
+        "average_response_time": NaN,
+        "average_dispatch_time": NaN,
+        "average_time_on_scene": NaN
+    },
+    {
+        "neighborhood": "Cadillac Heights",
+        "total_response_time": NaN,
+        "total_dispatch_time": NaN,
+        "total_time_on_scene": NaN,
+        "count": 193,
+        "average_response_time": NaN,
+        "average_dispatch_time": NaN,
+        "average_time_on_scene": NaN
+    },
+    {
+        "neighborhood": "North Campau",
+        "total_response_time": NaN,
+        "total_dispatch_time": NaN,
+        "total_time_on_scene": NaN,
+        "count": 245,
+        "average_response_time": NaN,
+        "average_dispatch_time": NaN,
+        "average_time_on_scene": NaN
+    },
+    {
+        "neighborhood": "Medical Center",
+        "total_response_time": NaN,
+        "total_dispatch_time": NaN,
+        "total_time_on_scene": NaN,
+        "count": 514,
+        "average_response_time": NaN,
+        "average_dispatch_time": NaN,
+        "average_time_on_scene": NaN
+    },
+    {
+        "neighborhood": "Five Points",
+        "total_response_time": NaN,
+        "total_dispatch_time": NaN,
+        "total_time_on_scene": NaN,
+        "count": 246,
+        "average_response_time": NaN,
+        "average_dispatch_time": NaN,
+        "average_time_on_scene": NaN
+    },
+    {
+        "neighborhood": "Crary/St Marys",
+        "total_response_time": NaN,
+        "total_dispatch_time": NaN,
+        "total_time_on_scene": NaN,
+        "count": 441,
+        "average_response_time": NaN,
+        "average_dispatch_time": NaN,
+        "average_time_on_scene": NaN
+    },
+    {
+        "neighborhood": "Henry Ford",
+        "total_response_time": NaN,
+        "total_dispatch_time": NaN,
+        "total_time_on_scene": NaN,
+        "count": 214,
+        "average_response_time": NaN,
+        "average_dispatch_time": NaN,
+        "average_time_on_scene": NaN
+    },
+    {
+        "neighborhood": "Happy Homes",
+        "total_response_time": NaN,
+        "total_dispatch_time": NaN,
+        "total_time_on_scene": NaN,
+        "count": 77,
+        "average_response_time": NaN,
+        "average_dispatch_time": NaN,
+        "average_time_on_scene": NaN
+    },
+    {
+        "neighborhood": "Palmer Woods",
+        "total_response_time": NaN,
+        "total_dispatch_time": NaN,
+        "total_time_on_scene": NaN,
+        "count": 805,
+        "average_response_time": NaN,
+        "average_dispatch_time": NaN,
+        "average_time_on_scene": NaN
+    },
+    {
+        "neighborhood": "North LaSalle",
+        "total_response_time": NaN,
+        "total_dispatch_time": NaN,
+        "total_time_on_scene": NaN,
+        "count": 184,
+        "average_response_time": NaN,
+        "average_dispatch_time": NaN,
+        "average_time_on_scene": NaN
+    },
+    {
+        "neighborhood": "Davison",
+        "total_response_time": NaN,
+        "total_dispatch_time": NaN,
+        "total_time_on_scene": NaN,
+        "count": 997,
+        "average_response_time": NaN,
+        "average_dispatch_time": NaN,
+        "average_time_on_scene": NaN
+    },
+    {
+        "neighborhood": "Warren Ave Community",
+        "total_response_time": NaN,
+        "total_dispatch_time": NaN,
+        "total_time_on_scene": NaN,
+        "count": 829,
+        "average_response_time": NaN,
+        "average_dispatch_time": NaN,
+        "average_time_on_scene": NaN
+    },
+    {
+        "neighborhood": "North Corktown",
+        "total_response_time": NaN,
+        "total_dispatch_time": NaN,
+        "total_time_on_scene": NaN,
+        "count": 313,
+        "average_response_time": NaN,
+        "average_dispatch_time": NaN,
+        "average_time_on_scene": NaN
+    },
+    {
+        "neighborhood": "Greenfield Park",
+        "total_response_time": NaN,
+        "total_dispatch_time": NaN,
+        "total_time_on_scene": NaN,
+        "count": 350,
+        "average_response_time": NaN,
+        "average_dispatch_time": NaN,
+        "average_time_on_scene": NaN
+    },
+    {
+        "neighborhood": "Grand River-St Marys",
+        "total_response_time": NaN,
+        "total_dispatch_time": NaN,
+        "total_time_on_scene": NaN,
+        "count": 213,
+        "average_response_time": NaN,
+        "average_dispatch_time": NaN,
+        "average_time_on_scene": NaN
+    },
+    {
+        "neighborhood": "Gratiot-Findlay",
+        "total_response_time": NaN,
+        "total_dispatch_time": NaN,
+        "total_time_on_scene": NaN,
+        "count": 1195,
+        "average_response_time": NaN,
+        "average_dispatch_time": NaN,
+        "average_time_on_scene": NaN
+    },
+    {
+        "neighborhood": "Grand River-I96",
+        "total_response_time": NaN,
+        "total_dispatch_time": NaN,
+        "total_time_on_scene": NaN,
+        "count": 1085,
+        "average_response_time": NaN,
+        "average_dispatch_time": NaN,
+        "average_time_on_scene": NaN
+    },
+    {
+        "neighborhood": "Ravendale",
+        "total_response_time": NaN,
+        "total_dispatch_time": NaN,
+        "total_time_on_scene": NaN,
+        "count": 147,
+        "average_response_time": NaN,
+        "average_dispatch_time": NaN,
+        "average_time_on_scene": NaN
+    },
+    {
+        "neighborhood": "Conant Gardens",
+        "total_response_time": NaN,
+        "total_dispatch_time": NaN,
+        "total_time_on_scene": NaN,
+        "count": 172,
+        "average_response_time": NaN,
+        "average_dispatch_time": NaN,
+        "average_time_on_scene": NaN
+    },
+    {
+        "neighborhood": "North Rosedale Park",
+        "total_response_time": NaN,
+        "total_dispatch_time": NaN,
+        "total_time_on_scene": NaN,
+        "count": 293,
+        "average_response_time": NaN,
+        "average_dispatch_time": NaN,
+        "average_time_on_scene": NaN
+    },
+    {
+        "neighborhood": "Forest Park",
+        "total_response_time": NaN,
+        "total_dispatch_time": NaN,
+        "total_time_on_scene": NaN,
+        "count": 223,
+        "average_response_time": NaN,
+        "average_dispatch_time": NaN,
+        "average_time_on_scene": NaN
+    },
+    {
+        "neighborhood": "Jefferson Chalmers",
+        "total_response_time": NaN,
+        "total_dispatch_time": NaN,
+        "total_time_on_scene": NaN,
+        "count": 367,
+        "average_response_time": NaN,
+        "average_dispatch_time": NaN,
+        "average_time_on_scene": NaN
+    },
+    {
+        "neighborhood": "Jeffries",
+        "total_response_time": NaN,
+        "total_dispatch_time": NaN,
+        "total_time_on_scene": NaN,
+        "count": 199,
+        "average_response_time": NaN,
+        "average_dispatch_time": NaN,
+        "average_time_on_scene": NaN
+    },
+    {
+        "neighborhood": "Denby",
+        "total_response_time": NaN,
+        "total_dispatch_time": NaN,
+        "total_time_on_scene": NaN,
+        "count": 286,
+        "average_response_time": NaN,
+        "average_dispatch_time": NaN,
+        "average_time_on_scene": NaN
+    },
+    {
+        "neighborhood": "Mexicantown",
+        "total_response_time": NaN,
+        "total_dispatch_time": 266.90000000000003,
+        "total_time_on_scene": NaN,
+        "count": 44,
+        "average_response_time": NaN,
+        "average_dispatch_time": 6.065909090909091,
+        "average_time_on_scene": NaN
+    },
+    {
+        "neighborhood": "Marina District",
+        "total_response_time": NaN,
+        "total_dispatch_time": NaN,
+        "total_time_on_scene": NaN,
+        "count": 62,
+        "average_response_time": NaN,
+        "average_dispatch_time": NaN,
+        "average_time_on_scene": NaN
+    },
+    {
+        "neighborhood": "Delray",
+        "total_response_time": NaN,
+        "total_dispatch_time": NaN,
+        "total_time_on_scene": NaN,
+        "count": 718,
+        "average_response_time": NaN,
+        "average_dispatch_time": NaN,
+        "average_time_on_scene": NaN
+    },
+    {
+        "neighborhood": "Moross-Morang",
+        "total_response_time": NaN,
+        "total_dispatch_time": NaN,
+        "total_time_on_scene": NaN,
+        "count": 547,
+        "average_response_time": NaN,
+        "average_dispatch_time": NaN,
+        "average_time_on_scene": NaN
+    },
+    {
+        "neighborhood": "Greenfield-Grand River",
+        "total_response_time": NaN,
+        "total_dispatch_time": NaN,
+        "total_time_on_scene": NaN,
+        "count": 221,
+        "average_response_time": NaN,
+        "average_dispatch_time": NaN,
+        "average_time_on_scene": NaN
+    },
+    {
+        "neighborhood": "Wildemere Park",
+        "total_response_time": NaN,
+        "total_dispatch_time": NaN,
+        "total_time_on_scene": NaN,
+        "count": 79,
+        "average_response_time": NaN,
+        "average_dispatch_time": NaN,
+        "average_time_on_scene": NaN
+    },
+    {
+        "neighborhood": "Campau/Banglatown",
+        "total_response_time": NaN,
+        "total_dispatch_time": NaN,
+        "total_time_on_scene": NaN,
+        "count": 70,
+        "average_response_time": NaN,
+        "average_dispatch_time": NaN,
+        "average_time_on_scene": NaN
+    },
+    {
+        "neighborhood": "West Outer Drive",
+        "total_response_time": NaN,
+        "total_dispatch_time": NaN,
+        "total_time_on_scene": NaN,
+        "count": 31,
+        "average_response_time": NaN,
+        "average_dispatch_time": NaN,
+        "average_time_on_scene": NaN
+    },
+    {
+        "neighborhood": "Joy-Schaefer",
+        "total_response_time": NaN,
+        "total_dispatch_time": NaN,
+        "total_time_on_scene": NaN,
+        "count": 129,
+        "average_response_time": NaN,
+        "average_dispatch_time": NaN,
+        "average_time_on_scene": NaN
+    },
+    {
+        "neighborhood": "Aviation Sub",
+        "total_response_time": NaN,
+        "total_dispatch_time": NaN,
+        "total_time_on_scene": NaN,
+        "count": 134,
+        "average_response_time": NaN,
+        "average_dispatch_time": NaN,
+        "average_time_on_scene": NaN
+    },
+    {
+        "neighborhood": "Chandler Park-Chalmers",
+        "total_response_time": NaN,
+        "total_dispatch_time": NaN,
+        "total_time_on_scene": NaN,
+        "count": 109,
+        "average_response_time": NaN,
+        "average_dispatch_time": NaN,
+        "average_time_on_scene": NaN
+    },
+    {
+        "neighborhood": "Melvern Hill",
+        "total_response_time": NaN,
+        "total_dispatch_time": 61.599999999999994,
+        "total_time_on_scene": NaN,
+        "count": 23,
+        "average_response_time": NaN,
+        "average_dispatch_time": 2.678260869565217,
+        "average_time_on_scene": NaN
+    },
+    {
+        "neighborhood": "Joseph Berry Sub",
+        "total_response_time": NaN,
+        "total_dispatch_time": 421.70000000000005,
+        "total_time_on_scene": NaN,
+        "count": 18,
+        "average_response_time": NaN,
+        "average_dispatch_time": 23.42777777777778,
+        "average_time_on_scene": NaN
+    },
+    {
+        "neighborhood": "The Eye",
+        "total_response_time": NaN,
+        "total_dispatch_time": NaN,
+        "total_time_on_scene": NaN,
+        "count": 171,
+        "average_response_time": NaN,
+        "average_dispatch_time": NaN,
+        "average_time_on_scene": NaN
+    },
+    {
+        "neighborhood": "Oak Grove",
+        "total_response_time": NaN,
+        "total_dispatch_time": NaN,
+        "total_time_on_scene": NaN,
+        "count": 977,
+        "average_response_time": NaN,
+        "average_dispatch_time": NaN,
+        "average_time_on_scene": NaN
+    },
+    {
+        "neighborhood": "Pilgrim Village",
+        "total_response_time": NaN,
+        "total_dispatch_time": NaN,
+        "total_time_on_scene": NaN,
+        "count": 257,
+        "average_response_time": NaN,
+        "average_dispatch_time": NaN,
+        "average_time_on_scene": NaN
+    },
+    {
+        "neighborhood": "Plymouth-Hubbell",
+        "total_response_time": NaN,
+        "total_dispatch_time": NaN,
+        "total_time_on_scene": NaN,
+        "count": 428,
+        "average_response_time": NaN,
+        "average_dispatch_time": NaN,
+        "average_time_on_scene": NaN
+    },
+    {
+        "neighborhood": "Tri-Point",
+        "total_response_time": NaN,
+        "total_dispatch_time": NaN,
+        "total_time_on_scene": NaN,
+        "count": 30,
+        "average_response_time": NaN,
+        "average_dispatch_time": NaN,
+        "average_time_on_scene": NaN
+    },
+    {
+        "neighborhood": "Herman Kiefer",
+        "total_response_time": NaN,
+        "total_dispatch_time": NaN,
+        "total_time_on_scene": NaN,
+        "count": 44,
+        "average_response_time": NaN,
+        "average_dispatch_time": NaN,
+        "average_time_on_scene": NaN
+    },
+    {
+        "neighborhood": "Seven Mile Lodge",
+        "total_response_time": NaN,
+        "total_dispatch_time": 159.2,
+        "total_time_on_scene": NaN,
+        "count": 38,
+        "average_response_time": NaN,
+        "average_dispatch_time": 4.189473684210526,
+        "average_time_on_scene": NaN
+    },
+    {
+        "neighborhood": "Bethune Community",
+        "total_response_time": NaN,
+        "total_dispatch_time": NaN,
+        "total_time_on_scene": NaN,
+        "count": 1143,
+        "average_response_time": NaN,
+        "average_dispatch_time": NaN,
+        "average_time_on_scene": NaN
+    },
+    {
+        "neighborhood": "Schulze",
+        "total_response_time": NaN,
+        "total_dispatch_time": NaN,
+        "total_time_on_scene": NaN,
+        "count": 567,
+        "average_response_time": NaN,
+        "average_dispatch_time": NaN,
+        "average_time_on_scene": NaN
+    },
+    {
+        "neighborhood": "New Center",
+        "total_response_time": NaN,
+        "total_dispatch_time": NaN,
+        "total_time_on_scene": NaN,
+        "count": 745,
+        "average_response_time": NaN,
+        "average_dispatch_time": NaN,
+        "average_time_on_scene": NaN
+    },
+    {
+        "neighborhood": "State Fair",
+        "total_response_time": NaN,
+        "total_dispatch_time": NaN,
+        "total_time_on_scene": NaN,
+        "count": 50,
+        "average_response_time": NaN,
+        "average_dispatch_time": NaN,
+        "average_time_on_scene": NaN
+    },
+    {
+        "neighborhood": "Chalfonte",
+        "total_response_time": NaN,
+        "total_dispatch_time": NaN,
+        "total_time_on_scene": NaN,
+        "count": 245,
+        "average_response_time": NaN,
+        "average_dispatch_time": NaN,
+        "average_time_on_scene": NaN
+    },
+    {
+        "neighborhood": "Jamison",
+        "total_response_time": NaN,
+        "total_dispatch_time": NaN,
+        "total_time_on_scene": NaN,
+        "count": 87,
+        "average_response_time": NaN,
+        "average_dispatch_time": NaN,
+        "average_time_on_scene": NaN
+    },
+    {
+        "neighborhood": "Mount Olivet",
+        "total_response_time": NaN,
+        "total_dispatch_time": NaN,
+        "total_time_on_scene": NaN,
+        "count": 561,
+        "average_response_time": NaN,
+        "average_dispatch_time": NaN,
+        "average_time_on_scene": NaN
+    },
+    {
+        "neighborhood": "Eastern Market",
+        "total_response_time": NaN,
+        "total_dispatch_time": NaN,
+        "total_time_on_scene": NaN,
+        "count": 1467,
+        "average_response_time": NaN,
+        "average_dispatch_time": NaN,
+        "average_time_on_scene": NaN
+    },
+    {
+        "neighborhood": "Indian Village",
+        "total_response_time": 117.39999999999999,
+        "total_dispatch_time": 20.599999999999998,
+        "total_time_on_scene": 1185.4,
+        "count": 55,
+        "average_response_time": 2.1345454545454543,
+        "average_dispatch_time": 0.3745454545454545,
+        "average_time_on_scene": 21.552727272727275
+    },
+    {
+        "neighborhood": "Milwaukee Junction",
+        "total_response_time": NaN,
+        "total_dispatch_time": NaN,
+        "total_time_on_scene": NaN,
+        "count": 221,
+        "average_response_time": NaN,
+        "average_dispatch_time": NaN,
+        "average_time_on_scene": NaN
+    },
+    {
+        "neighborhood": "Belle Isle",
+        "total_response_time": NaN,
+        "total_dispatch_time": NaN,
+        "total_time_on_scene": NaN,
+        "count": 3,
+        "average_response_time": NaN,
+        "average_dispatch_time": NaN,
+        "average_time_on_scene": NaN
+    },
+    {
+        "neighborhood": "Midtown",
+        "total_response_time": NaN,
+        "total_dispatch_time": NaN,
+        "total_time_on_scene": NaN,
+        "count": 2919,
+        "average_response_time": NaN,
+        "average_dispatch_time": NaN,
+        "average_time_on_scene": NaN
+    },
+    {
+        "neighborhood": "Mapleridge",
+        "total_response_time": NaN,
+        "total_dispatch_time": NaN,
+        "total_time_on_scene": NaN,
+        "count": 768,
+        "average_response_time": NaN,
+        "average_dispatch_time": NaN,
+        "average_time_on_scene": NaN
+    },
+    {
+        "neighborhood": "Core City",
+        "total_response_time": NaN,
+        "total_dispatch_time": NaN,
+        "total_time_on_scene": NaN,
+        "count": 222,
+        "average_response_time": NaN,
+        "average_dispatch_time": NaN,
+        "average_time_on_scene": NaN
+    },
+    {
+        "neighborhood": "Piety Hill",
+        "total_response_time": NaN,
+        "total_dispatch_time": NaN,
+        "total_time_on_scene": NaN,
+        "count": 165,
+        "average_response_time": NaN,
+        "average_dispatch_time": NaN,
+        "average_time_on_scene": NaN
+    },
+    {
+        "neighborhood": "Brightmoor",
+        "total_response_time": NaN,
+        "total_dispatch_time": NaN,
+        "total_time_on_scene": NaN,
+        "count": 936,
+        "average_response_time": NaN,
+        "average_dispatch_time": NaN,
+        "average_time_on_scene": NaN
+    },
+    {
+        "neighborhood": "Hubbell-Lyndon",
+        "total_response_time": NaN,
+        "total_dispatch_time": NaN,
+        "total_time_on_scene": NaN,
+        "count": 422,
+        "average_response_time": NaN,
+        "average_dispatch_time": NaN,
+        "average_time_on_scene": NaN
+    },
+    {
+        "neighborhood": "Von Steuben",
+        "total_response_time": NaN,
+        "total_dispatch_time": NaN,
+        "total_time_on_scene": NaN,
+        "count": 436,
+        "average_response_time": NaN,
+        "average_dispatch_time": NaN,
+        "average_time_on_scene": NaN
+    },
+    {
+        "neighborhood": "Elijah McCoy",
+        "total_response_time": NaN,
+        "total_dispatch_time": NaN,
+        "total_time_on_scene": NaN,
+        "count": 125,
+        "average_response_time": NaN,
+        "average_dispatch_time": NaN,
+        "average_time_on_scene": NaN
+    },
+    {
+        "neighborhood": "Pulaski",
+        "total_response_time": NaN,
+        "total_dispatch_time": NaN,
+        "total_time_on_scene": NaN,
+        "count": 472,
+        "average_response_time": NaN,
+        "average_dispatch_time": NaN,
+        "average_time_on_scene": NaN
+    },
+    {
+        "neighborhood": "Harmony Village",
+        "total_response_time": NaN,
+        "total_dispatch_time": NaN,
+        "total_time_on_scene": NaN,
+        "count": 393,
+        "average_response_time": NaN,
+        "average_dispatch_time": NaN,
+        "average_time_on_scene": NaN
+    },
+    {
+        "neighborhood": "Douglass",
+        "total_response_time": 75.1,
+        "total_dispatch_time": 64.2,
+        "total_time_on_scene": 218.3,
+        "count": 8,
+        "average_response_time": 9.3875,
+        "average_dispatch_time": 8.025,
+        "average_time_on_scene": 27.2875
+    },
+    {
+        "neighborhood": "Castle Rouge",
+        "total_response_time": NaN,
+        "total_dispatch_time": NaN,
+        "total_time_on_scene": NaN,
+        "count": 82,
+        "average_response_time": NaN,
+        "average_dispatch_time": NaN,
+        "average_time_on_scene": NaN
+    },
+    {
+        "neighborhood": "Eliza Howell",
+        "total_response_time": NaN,
+        "total_dispatch_time": NaN,
+        "total_time_on_scene": NaN,
+        "count": 121,
+        "average_response_time": NaN,
+        "average_dispatch_time": NaN,
+        "average_time_on_scene": NaN
+    },
+    {
+        "neighborhood": "Medbury Park",
+        "total_response_time": NaN,
+        "total_dispatch_time": NaN,
+        "total_time_on_scene": NaN,
+        "count": 71,
+        "average_response_time": NaN,
+        "average_dispatch_time": NaN,
+        "average_time_on_scene": NaN
+    },
+    {
+        "neighborhood": "Joy Community",
+        "total_response_time": NaN,
+        "total_dispatch_time": NaN,
+        "total_time_on_scene": NaN,
+        "count": 678,
+        "average_response_time": NaN,
+        "average_dispatch_time": NaN,
+        "average_time_on_scene": NaN
+    },
+    {
+        "neighborhood": "Chadsey Condon",
+        "total_response_time": NaN,
+        "total_dispatch_time": NaN,
+        "total_time_on_scene": NaN,
+        "count": 377,
+        "average_response_time": NaN,
+        "average_dispatch_time": NaN,
+        "average_time_on_scene": NaN
+    },
+    {
+        "neighborhood": "Nortown",
+        "total_response_time": NaN,
+        "total_dispatch_time": NaN,
+        "total_time_on_scene": NaN,
+        "count": 535,
+        "average_response_time": NaN,
+        "average_dispatch_time": NaN,
+        "average_time_on_scene": NaN
+    },
+    {
+        "neighborhood": "Morningside",
+        "total_response_time": NaN,
+        "total_dispatch_time": NaN,
+        "total_time_on_scene": NaN,
+        "count": 607,
+        "average_response_time": NaN,
+        "average_dispatch_time": NaN,
+        "average_time_on_scene": NaN
+    },
+    {
+        "neighborhood": "Garden Homes",
+        "total_response_time": NaN,
+        "total_dispatch_time": NaN,
+        "total_time_on_scene": NaN,
+        "count": 109,
+        "average_response_time": NaN,
+        "average_dispatch_time": NaN,
+        "average_time_on_scene": NaN
+    },
+    {
+        "neighborhood": "Schoolcraft Southfield",
+        "total_response_time": NaN,
+        "total_dispatch_time": NaN,
+        "total_time_on_scene": NaN,
+        "count": 637,
+        "average_response_time": NaN,
+        "average_dispatch_time": NaN,
+        "average_time_on_scene": NaN
+    },
+    {
+        "neighborhood": "West End",
+        "total_response_time": NaN,
+        "total_dispatch_time": NaN,
+        "total_time_on_scene": NaN,
+        "count": 244,
+        "average_response_time": NaN,
+        "average_dispatch_time": NaN,
+        "average_time_on_scene": NaN
+    },
+    {
+        "neighborhood": "Seven Mile-Rouge",
+        "total_response_time": NaN,
+        "total_dispatch_time": NaN,
+        "total_time_on_scene": NaN,
+        "count": 225,
+        "average_response_time": NaN,
+        "average_dispatch_time": NaN,
+        "average_time_on_scene": NaN
+    },
+    {
+        "neighborhood": "Russell Woods",
+        "total_response_time": NaN,
+        "total_dispatch_time": NaN,
+        "total_time_on_scene": NaN,
+        "count": 208,
+        "average_response_time": NaN,
+        "average_dispatch_time": NaN,
+        "average_time_on_scene": NaN
+    },
+    {
+        "neighborhood": "Penrose",
+        "total_response_time": NaN,
+        "total_dispatch_time": NaN,
+        "total_time_on_scene": NaN,
+        "count": 90,
+        "average_response_time": NaN,
+        "average_dispatch_time": NaN,
+        "average_time_on_scene": NaN
+    },
+    {
+        "neighborhood": "Dexter-Fenkell",
+        "total_response_time": NaN,
+        "total_dispatch_time": NaN,
+        "total_time_on_scene": NaN,
+        "count": 130,
+        "average_response_time": NaN,
+        "average_dispatch_time": NaN,
+        "average_time_on_scene": NaN
+    },
+    {
+        "neighborhood": "Palmer Park",
+        "total_response_time": NaN,
+        "total_dispatch_time": NaN,
+        "total_time_on_scene": NaN,
+        "count": 280,
+        "average_response_time": NaN,
+        "average_dispatch_time": NaN,
+        "average_time_on_scene": NaN
+    },
+    {
+        "neighborhood": "McDowell",
+        "total_response_time": NaN,
+        "total_dispatch_time": NaN,
+        "total_time_on_scene": NaN,
+        "count": 110,
+        "average_response_time": NaN,
+        "average_dispatch_time": NaN,
+        "average_time_on_scene": NaN
+    },
+    {
+        "neighborhood": "Grandmont",
+        "total_response_time": NaN,
+        "total_dispatch_time": NaN,
+        "total_time_on_scene": NaN,
+        "count": 133,
+        "average_response_time": NaN,
+        "average_dispatch_time": NaN,
+        "average_time_on_scene": NaN
+    },
+    {
+        "neighborhood": "Westwood Park",
+        "total_response_time": NaN,
+        "total_dispatch_time": NaN,
+        "total_time_on_scene": NaN,
+        "count": 126,
+        "average_response_time": NaN,
+        "average_dispatch_time": NaN,
+        "average_time_on_scene": NaN
+    },
+    {
+        "neighborhood": "Dexter-Linwood",
+        "total_response_time": NaN,
+        "total_dispatch_time": NaN,
+        "total_time_on_scene": NaN,
+        "count": 996,
+        "average_response_time": NaN,
+        "average_dispatch_time": NaN,
+        "average_time_on_scene": NaN
+    },
+    {
+        "neighborhood": "Gratiot-Grand",
+        "total_response_time": NaN,
+        "total_dispatch_time": NaN,
+        "total_time_on_scene": NaN,
+        "count": 314,
+        "average_response_time": NaN,
+        "average_dispatch_time": NaN,
+        "average_time_on_scene": NaN
+    },
+    {
+        "neighborhood": "Central Southwest",
+        "total_response_time": NaN,
+        "total_dispatch_time": NaN,
+        "total_time_on_scene": NaN,
+        "count": 1023,
+        "average_response_time": NaN,
+        "average_dispatch_time": NaN,
+        "average_time_on_scene": NaN
+    },
+    {
+        "neighborhood": "LaSalle College Park",
+        "total_response_time": NaN,
+        "total_dispatch_time": NaN,
+        "total_time_on_scene": NaN,
+        "count": 207,
+        "average_response_time": NaN,
+        "average_dispatch_time": NaN,
+        "average_time_on_scene": NaN
+    },
+    {
+        "neighborhood": "Littlefield Community",
+        "total_response_time": NaN,
+        "total_dispatch_time": NaN,
+        "total_time_on_scene": NaN,
+        "count": 95,
+        "average_response_time": NaN,
+        "average_dispatch_time": NaN,
+        "average_time_on_scene": NaN
+    },
+    {
+        "neighborhood": "Paveway",
+        "total_response_time": NaN,
+        "total_dispatch_time": NaN,
+        "total_time_on_scene": NaN,
+        "count": 55,
+        "average_response_time": NaN,
+        "average_dispatch_time": NaN,
+        "average_time_on_scene": NaN
+    },
+    {
+        "neighborhood": "Oakwood Heights",
+        "total_response_time": NaN,
+        "total_dispatch_time": NaN,
+        "total_time_on_scene": NaN,
+        "count": 45,
+        "average_response_time": NaN,
+        "average_dispatch_time": NaN,
+        "average_time_on_scene": NaN
+    },
+    {
+        "neighborhood": "Minock Park",
+        "total_response_time": NaN,
+        "total_dispatch_time": 166.80000000000004,
+        "total_time_on_scene": NaN,
+        "count": 56,
+        "average_response_time": NaN,
+        "average_dispatch_time": 2.978571428571429,
+        "average_time_on_scene": NaN
+    },
+    {
+        "neighborhood": "Outer Drive-Hayes",
+        "total_response_time": NaN,
+        "total_dispatch_time": NaN,
+        "total_time_on_scene": NaN,
+        "count": 1061,
+        "average_response_time": NaN,
+        "average_dispatch_time": NaN,
+        "average_time_on_scene": NaN
+    },
+    {
+        "neighborhood": "Regent Park",
+        "total_response_time": NaN,
+        "total_dispatch_time": NaN,
+        "total_time_on_scene": NaN,
+        "count": 886,
+        "average_response_time": NaN,
+        "average_dispatch_time": NaN,
+        "average_time_on_scene": NaN
+    },
+    {
+        "neighborhood": "Gateway Community",
+        "total_response_time": NaN,
+        "total_dispatch_time": NaN,
+        "total_time_on_scene": NaN,
+        "count": 137,
+        "average_response_time": NaN,
+        "average_dispatch_time": NaN,
+        "average_time_on_scene": NaN
+    },
+    {
+        "neighborhood": "Far West Detroit",
+        "total_response_time": NaN,
+        "total_dispatch_time": NaN,
+        "total_time_on_scene": NaN,
+        "count": 122,
+        "average_response_time": NaN,
+        "average_dispatch_time": NaN,
+        "average_time_on_scene": NaN
+    },
+    {
+        "neighborhood": "Gold Coast",
+        "total_response_time": NaN,
+        "total_dispatch_time": NaN,
+        "total_time_on_scene": NaN,
+        "count": 204,
+        "average_response_time": NaN,
+        "average_dispatch_time": NaN,
+        "average_time_on_scene": NaN
+    },
+    {
+        "neighborhood": "Barton-McFarland",
+        "total_response_time": NaN,
+        "total_dispatch_time": NaN,
+        "total_time_on_scene": NaN,
+        "count": 723,
+        "average_response_time": NaN,
+        "average_dispatch_time": NaN,
+        "average_time_on_scene": NaN
+    },
+    {
+        "neighborhood": "Krainz Woods",
+        "total_response_time": NaN,
+        "total_dispatch_time": NaN,
+        "total_time_on_scene": NaN,
+        "count": 224,
+        "average_response_time": NaN,
+        "average_dispatch_time": NaN,
+        "average_time_on_scene": NaN
+    },
+    {
+        "neighborhood": "Franklin",
+        "total_response_time": NaN,
+        "total_dispatch_time": NaN,
+        "total_time_on_scene": NaN,
+        "count": 400,
+        "average_response_time": NaN,
+        "average_dispatch_time": NaN,
+        "average_time_on_scene": NaN
+    },
+    {
+        "neighborhood": "Wade",
+        "total_response_time": NaN,
+        "total_dispatch_time": NaN,
+        "total_time_on_scene": NaN,
+        "count": 164,
+        "average_response_time": NaN,
+        "average_dispatch_time": NaN,
+        "average_time_on_scene": NaN
+    },
+    {
+        "neighborhood": "Greektown",
+        "total_response_time": NaN,
+        "total_dispatch_time": NaN,
+        "total_time_on_scene": NaN,
+        "count": 1096,
+        "average_response_time": NaN,
+        "average_dispatch_time": NaN,
+        "average_time_on_scene": NaN
+    },
+    {
+        "neighborhood": "Pride Area Community",
+        "total_response_time": NaN,
+        "total_dispatch_time": NaN,
+        "total_time_on_scene": NaN,
+        "count": 187,
+        "average_response_time": NaN,
+        "average_dispatch_time": NaN,
+        "average_time_on_scene": NaN
+    },
+    {
+        "neighborhood": "Grixdale Farms",
+        "total_response_time": NaN,
+        "total_dispatch_time": NaN,
+        "total_time_on_scene": NaN,
+        "count": 222,
+        "average_response_time": NaN,
+        "average_dispatch_time": NaN,
+        "average_time_on_scene": NaN
+    },
+    {
+        "neighborhood": "Woodbridge",
+        "total_response_time": NaN,
+        "total_dispatch_time": NaN,
+        "total_time_on_scene": NaN,
+        "count": 404,
+        "average_response_time": NaN,
+        "average_dispatch_time": NaN,
+        "average_time_on_scene": NaN
+    },
+    {
+        "neighborhood": "West Side Industrial",
+        "total_response_time": NaN,
+        "total_dispatch_time": NaN,
+        "total_time_on_scene": NaN,
+        "count": 213,
+        "average_response_time": NaN,
+        "average_dispatch_time": NaN,
+        "average_time_on_scene": NaN
+    },
+    {
+        "neighborhood": "Hawthorne Park",
+        "total_response_time": NaN,
+        "total_dispatch_time": NaN,
+        "total_time_on_scene": NaN,
+        "count": 226,
+        "average_response_time": NaN,
+        "average_dispatch_time": NaN,
+        "average_time_on_scene": NaN
+    },
+    {
+        "neighborhood": "Airport Sub",
+        "total_response_time": NaN,
+        "total_dispatch_time": NaN,
+        "total_time_on_scene": NaN,
+        "count": 711,
+        "average_response_time": NaN,
+        "average_dispatch_time": NaN,
+        "average_time_on_scene": NaN
+    },
+    {
+        "neighborhood": "Schaefer 7/8 Lodge",
+        "total_response_time": NaN,
+        "total_dispatch_time": NaN,
+        "total_time_on_scene": NaN,
+        "count": 303,
+        "average_response_time": NaN,
+        "average_dispatch_time": NaN,
+        "average_time_on_scene": NaN
+    },
+    {
+        "neighborhood": "Greenwich",
+        "total_response_time": NaN,
+        "total_dispatch_time": NaN,
+        "total_time_on_scene": NaN,
+        "count": 80,
+        "average_response_time": NaN,
+        "average_dispatch_time": NaN,
+        "average_time_on_scene": NaN
+    },
+    {
+        "neighborhood": "Plymouth-I96",
+        "total_response_time": NaN,
+        "total_dispatch_time": NaN,
+        "total_time_on_scene": NaN,
+        "count": 278,
+        "average_response_time": NaN,
+        "average_dispatch_time": NaN,
+        "average_time_on_scene": NaN
+    },
+    {
+        "neighborhood": "West Village",
+        "total_response_time": NaN,
+        "total_dispatch_time": NaN,
+        "total_time_on_scene": NaN,
+        "count": 141,
+        "average_response_time": NaN,
+        "average_dispatch_time": NaN,
+        "average_time_on_scene": NaN
+    },
+    {
+        "neighborhood": "Hubbard Farms",
+        "total_response_time": NaN,
+        "total_dispatch_time": NaN,
+        "total_time_on_scene": NaN,
+        "count": 137,
+        "average_response_time": NaN,
+        "average_dispatch_time": NaN,
+        "average_time_on_scene": NaN
+    },
+    {
+        "neighborhood": "Davison-Schoolcraft",
+        "total_response_time": NaN,
+        "total_dispatch_time": NaN,
+        "total_time_on_scene": NaN,
+        "count": 165,
+        "average_response_time": NaN,
+        "average_dispatch_time": NaN,
+        "average_time_on_scene": NaN
+    },
+    {
+        "neighborhood": "Boston Edison",
+        "total_response_time": NaN,
+        "total_dispatch_time": NaN,
+        "total_time_on_scene": NaN,
+        "count": 64,
+        "average_response_time": NaN,
+        "average_dispatch_time": NaN,
+        "average_time_on_scene": NaN
+    },
+    {
+        "neighborhood": "Cultural Center",
+        "total_response_time": NaN,
+        "total_dispatch_time": NaN,
+        "total_time_on_scene": NaN,
+        "count": 359,
+        "average_response_time": NaN,
+        "average_dispatch_time": NaN,
+        "average_time_on_scene": NaN
+    },
+    {
+        "neighborhood": "Fitzgerald/Marygrove",
+        "total_response_time": NaN,
+        "total_dispatch_time": NaN,
+        "total_time_on_scene": NaN,
+        "count": 614,
+        "average_response_time": NaN,
+        "average_dispatch_time": NaN,
+        "average_time_on_scene": NaN
+    },
+    {
+        "neighborhood": "San Bernardo",
+        "total_response_time": NaN,
+        "total_dispatch_time": NaN,
+        "total_time_on_scene": NaN,
+        "count": 105,
+        "average_response_time": NaN,
+        "average_dispatch_time": NaN,
+        "average_time_on_scene": NaN
+    },
+    {
+        "neighborhood": "Petoskey-Otsego",
+        "total_response_time": NaN,
+        "total_dispatch_time": NaN,
+        "total_time_on_scene": NaN,
+        "count": 241,
+        "average_response_time": NaN,
+        "average_dispatch_time": NaN,
+        "average_time_on_scene": NaN
+    },
+    {
+        "neighborhood": "Martin Park",
+        "total_response_time": NaN,
+        "total_dispatch_time": NaN,
+        "total_time_on_scene": NaN,
+        "count": 153,
+        "average_response_time": NaN,
+        "average_dispatch_time": NaN,
+        "average_time_on_scene": NaN
+    },
+    {
+        "neighborhood": "South of Six",
+        "total_response_time": NaN,
+        "total_dispatch_time": NaN,
+        "total_time_on_scene": NaN,
+        "count": 58,
+        "average_response_time": NaN,
+        "average_dispatch_time": NaN,
+        "average_time_on_scene": NaN
+    },
+    {
+        "neighborhood": "East English Village",
+        "total_response_time": NaN,
+        "total_dispatch_time": NaN,
+        "total_time_on_scene": NaN,
+        "count": 257,
+        "average_response_time": NaN,
+        "average_dispatch_time": NaN,
+        "average_time_on_scene": NaN
+    },
+    {
+        "neighborhood": "Springwells",
+        "total_response_time": NaN,
+        "total_dispatch_time": NaN,
+        "total_time_on_scene": NaN,
+        "count": 758,
+        "average_response_time": NaN,
+        "average_dispatch_time": NaN,
+        "average_time_on_scene": NaN
+    },
+    {
+        "neighborhood": "Holcomb Community",
+        "total_response_time": NaN,
+        "total_dispatch_time": NaN,
+        "total_time_on_scene": NaN,
+        "count": 688,
+        "average_response_time": NaN,
+        "average_dispatch_time": NaN,
+        "average_time_on_scene": NaN
+    },
+    {
+        "neighborhood": "Oakman Blvd Community",
+        "total_response_time": NaN,
+        "total_dispatch_time": NaN,
+        "total_time_on_scene": NaN,
+        "count": 925,
+        "average_response_time": NaN,
+        "average_dispatch_time": NaN,
+        "average_time_on_scene": NaN
+    },
+    {
+        "neighborhood": "Pingree Park",
+        "total_response_time": NaN,
+        "total_dispatch_time": 121.89999999999998,
+        "total_time_on_scene": NaN,
+        "count": 54,
+        "average_response_time": NaN,
+        "average_dispatch_time": 2.257407407407407,
+        "average_time_on_scene": NaN
+    },
+    {
+        "neighborhood": "Grant",
+        "total_response_time": NaN,
+        "total_dispatch_time": NaN,
+        "total_time_on_scene": NaN,
+        "count": 909,
+        "average_response_time": NaN,
+        "average_dispatch_time": NaN,
+        "average_time_on_scene": NaN
+    },
+    {
+        "neighborhood": "North End",
+        "total_response_time": NaN,
+        "total_dispatch_time": NaN,
+        "total_time_on_scene": NaN,
+        "count": 301,
+        "average_response_time": NaN,
+        "average_dispatch_time": NaN,
+        "average_time_on_scene": NaN
+    },
+    {
+        "neighborhood": "NW Goldberg",
+        "total_response_time": NaN,
+        "total_dispatch_time": NaN,
+        "total_time_on_scene": NaN,
+        "count": 257,
+        "average_response_time": NaN,
+        "average_dispatch_time": NaN,
+        "average_time_on_scene": NaN
+    },
+    {
+        "neighborhood": "Nardin Park",
+        "total_response_time": NaN,
+        "total_dispatch_time": NaN,
+        "total_time_on_scene": NaN,
+        "count": 1139,
+        "average_response_time": NaN,
+        "average_dispatch_time": NaN,
+        "average_time_on_scene": NaN
+    },
+    {
+        "neighborhood": "Conner Creek Industrial",
+        "total_response_time": NaN,
+        "total_dispatch_time": NaN,
+        "total_time_on_scene": NaN,
+        "count": 184,
+        "average_response_time": NaN,
+        "average_dispatch_time": NaN,
+        "average_time_on_scene": NaN
+    },
+    {
+        "neighborhood": "Garden View",
+        "total_response_time": NaN,
+        "total_dispatch_time": NaN,
+        "total_time_on_scene": NaN,
+        "count": 91,
+        "average_response_time": NaN,
+        "average_dispatch_time": NaN,
+        "average_time_on_scene": NaN
+    },
+    {
+        "neighborhood": "Evergreen Lahser 7/8",
+        "total_response_time": NaN,
+        "total_dispatch_time": NaN,
+        "total_time_on_scene": NaN,
+        "count": 357,
+        "average_response_time": NaN,
+        "average_dispatch_time": NaN,
+        "average_time_on_scene": NaN
+    },
+    {
+        "neighborhood": "Pembroke",
+        "total_response_time": NaN,
+        "total_dispatch_time": NaN,
+        "total_time_on_scene": NaN,
+        "count": 97,
+        "average_response_time": NaN,
+        "average_dispatch_time": NaN,
+        "average_time_on_scene": NaN
+    },
+    {
+        "neighborhood": "Evergreen-Outer Drive",
+        "total_response_time": NaN,
+        "total_dispatch_time": NaN,
+        "total_time_on_scene": NaN,
+        "count": 583,
+        "average_response_time": NaN,
+        "average_dispatch_time": NaN,
+        "average_time_on_scene": NaN
+    },
+    {
+        "neighborhood": "Corktown",
+        "total_response_time": NaN,
+        "total_dispatch_time": NaN,
+        "total_time_on_scene": NaN,
+        "count": 457,
+        "average_response_time": NaN,
+        "average_dispatch_time": NaN,
+        "average_time_on_scene": NaN
+    },
+    {
+        "neighborhood": "McNichols Evergreen",
+        "total_response_time": NaN,
+        "total_dispatch_time": NaN,
+        "total_time_on_scene": NaN,
+        "count": 153,
+        "average_response_time": NaN,
+        "average_dispatch_time": NaN,
+        "average_time_on_scene": NaN
+    },
+    {
+        "neighborhood": "Weatherby",
+        "total_response_time": NaN,
+        "total_dispatch_time": NaN,
+        "total_time_on_scene": NaN,
+        "count": 254,
+        "average_response_time": NaN,
+        "average_dispatch_time": NaN,
+        "average_time_on_scene": NaN
+    },
+    {
+        "neighborhood": "Poletown East",
+        "total_response_time": NaN,
+        "total_dispatch_time": NaN,
+        "total_time_on_scene": NaN,
+        "count": 311,
+        "average_response_time": NaN,
+        "average_dispatch_time": NaN,
+        "average_time_on_scene": NaN
+    },
+    {
+        "neighborhood": "Cornerstone Village",
+        "total_response_time": NaN,
+        "total_dispatch_time": NaN,
+        "total_time_on_scene": NaN,
+        "count": 593,
+        "average_response_time": NaN,
+        "average_dispatch_time": NaN,
+        "average_time_on_scene": NaN
+    },
+    {
+        "neighborhood": "Arden Park",
+        "total_response_time": 64.2,
+        "total_dispatch_time": 27.1,
+        "total_time_on_scene": 157.2,
+        "count": 11,
+        "average_response_time": 5.836363636363637,
+        "average_dispatch_time": 2.463636363636364,
+        "average_time_on_scene": 14.29090909090909
+    },
+    {
+        "neighborhood": "Buffalo Charles",
+        "total_response_time": NaN,
+        "total_dispatch_time": NaN,
+        "total_time_on_scene": NaN,
+        "count": 177,
+        "average_response_time": NaN,
+        "average_dispatch_time": NaN,
+        "average_time_on_scene": NaN
+    },
+    {
+        "neighborhood": "Pershing",
+        "total_response_time": NaN,
+        "total_dispatch_time": NaN,
+        "total_time_on_scene": NaN,
+        "count": 157,
+        "average_response_time": NaN,
+        "average_dispatch_time": NaN,
+        "average_time_on_scene": NaN
+    },
+    {
+        "neighborhood": "Rosedale Park",
+        "total_response_time": NaN,
+        "total_dispatch_time": NaN,
+        "total_time_on_scene": NaN,
+        "count": 363,
+        "average_response_time": NaN,
+        "average_dispatch_time": NaN,
+        "average_time_on_scene": NaN
+    },
+    {
+        "neighborhood": "All Detroit",
+        "total_response_time": NaN,
+        "total_dispatch_time": NaN,
+        "total_time_on_scene": NaN,
+        "count": 154,
+        "average_response_time": NaN,
+        "average_dispatch_time": NaN,
+        "average_time_on_scene": NaN
+    }
+]
